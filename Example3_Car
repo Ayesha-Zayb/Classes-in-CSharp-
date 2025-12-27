@@ -1,0 +1,23 @@
+using System;
+
+class Car
+{
+    public string Brand { get; set; }
+    public int ModelYear { get; set; }
+
+    public void StartCar()
+    {
+        Console.WriteLine(Brand + " car started.");
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        Car c1 = new Car();
+        c1.Brand = "Toyota";
+        c1.ModelYear = 2023;
+        c1.StartCar();
+    }
+}
