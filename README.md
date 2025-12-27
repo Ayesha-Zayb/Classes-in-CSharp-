@@ -3,8 +3,6 @@
 ## Introduction
 Classes are the core concept of Object-Oriented Programming (OOP) in C#. A class acts as a blueprint that defines the structure and behavior of objects. It helps developers organize code in a logical, reusable, and secure way.
 
-This project explains the concept of classes in C# with clear explanations and real-world examples. The project is designed for academic submission and GitHub upload.
-
 ---
 
 ## What is a Class?
@@ -13,17 +11,6 @@ A class is a user-defined data type that contains:
 - Member functions (methods)
 
 Objects are created from classes using the `new` keyword.
-
----
-
-## Syntax of a Class
-```csharp
-class ClassName
-{
-    // Data members
-    // Methods
-}
-```
 
 ---
 
@@ -41,7 +28,6 @@ This project includes three examples:
 2. BankAccount class (constructor & encapsulation)
 3. Car class (properties & real-world object)
 
-Each example is placed in a separate folder for clarity.
 
 ---
 
@@ -51,7 +37,7 @@ Classes are essential for building structured and scalable C# applications. By g
 ---
 
 ## Author
-**Name:** Ayesha Zayb Warraich  
+**Name:** Ayesha Zaib Warraich  
 **Language:** C#  
 **Topic:** Classes in C#  
 **Purpose:** Academic & GitHub Project
